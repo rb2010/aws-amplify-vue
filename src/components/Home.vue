@@ -14,7 +14,7 @@
 <template>
   <div class="container shifted">
     <h1 class="h1">
-      My Covid App
+      Covid-19 Dashboard
     </h1>
 
     <div class="section">
